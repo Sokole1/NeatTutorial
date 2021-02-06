@@ -1,6 +1,7 @@
 "# NeatTutorial" 
 
 Make sure you have neat and pygame installed:
+
 pip install pygame
 
 pip install neat-python
